@@ -1,7 +1,7 @@
 name: flutter_onboard
 description: This package used to easily create the onboarding pages without any depencies, and also easy customization of all the text, colors, butto styles, body images etc...
 version: 0.0.1
-homepage: https://github.com/SukumarRaja/flutter_onboard
+homepage: https://github.com/SukumarRaja/flutter_onboard.git
 
 environment:
   sdk: '>=2.18.5 <3.0.0'
